@@ -33,7 +33,7 @@
 .bubble {
   position: absolute;
   background: transparent;
-  background-image: url(https://uploads-ssl.webflow.com/618d72a3897b85925a49a68e/61980f895cf1e43a7163ad31_ether%20(1).png);
+  background-image: url("https://uploads-ssl.webflow.com/618d72a3897b85925a49a68e/61980f895cf1e43a7163ad31_ether%20(1).png");
   background-size: contain !important;
   opacity: 0.9;
   border-radius: 50%;
